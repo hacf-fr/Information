@@ -1,8 +1,8 @@
 # Information
 
-For the English speaking visitors.
+For [the English speaking visitors](#welcome-in-the-hacf-fr-github-oarganization).
 
-Pour les visiteurs francophones.
+Pour [les visiteurs francophones](#bienvenue-sur-lorganisation-github-de-hacf-fr).
 
 ## Bienvenue sur l'organisation GitHub de HACF-fr
 
