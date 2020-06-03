@@ -36,9 +36,8 @@ des projets existants.
 ### Welcome in the HACF-fr GitHub oarganization
 
 This organization is hosting the open sources projects from the Home-Assistant
-french speaking community.
-You will find repositories linkg to Home-Assistant integrations and related
-projects maintained by this community.
+french speaking community. You will find repositories linked to Home-Assistant
+integrations and related projects maintained by this community.
 
 ### Contributing
 
