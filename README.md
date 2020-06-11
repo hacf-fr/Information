@@ -56,7 +56,7 @@ directly or on the [community Discord](https://discord.gg/uybmhR).
 You will be then able to host your projects here and/or participate to existing
 projects.
 
-To contribute to this organization, you have to be compliant with the [code of conduct](./CODE_OF_CONDUCT_EN.md) of this commmunity.
+To contribute to this organization, you have to be compliant with the [code of conduct](CODE_OF_CONDUCT_EN.md) of this community.
 
 ### Usefull Link
 
