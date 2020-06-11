@@ -18,10 +18,10 @@ visibilité à des projets (Integration tier,carte personnalisée pour Lovelace,
 Add-on, thème, etc...) liés à Home-Assitant pour ou par des francophones.
 
 Elle rassemble une communauté de développeurs qui pourront aider à maintenir ou
-améliorer les projets mêmes si l'auteur n'est pas ou plus disponible.
+améliorer les projets même si l'auteur n'est pas ou plus disponible.
 
 Si vous voulez faire partie de l'équipe des développeurs francophones, contactez
-un des membre de [l'équipe `developers`](https://github.com/orgs/hacf-fr/teams/developers/members)
+un des membres de [l'équipe `developers`](https://github.com/orgs/hacf-fr/teams/developers/members)
 directement ou sur le [Discord de la communauté](https://discord.gg/uybmhR).
 Vous pourrez alors héberger vos projets ici et/ou participer aux développements
 des projets existants.
