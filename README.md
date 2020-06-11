@@ -26,6 +26,8 @@ directement ou sur le [Discord de la communauté](https://discord.gg/uybmhR).
 Vous pourrez alors héberger vos projets ici et/ou participer aux développements
 des projets existants.
 
+Pour contribuer à cette orgnaisation vous devez respecter le [code de conduite](./CODE_OD_CONDUCT.md) de cette communauté.
+
 ### Liens utiles
 
 - [Blog HACF](#hacf-home-assistant-communauté-francophone)
@@ -53,6 +55,8 @@ If you want to join the francophone developers team, contact a member of
 directly or on the [community Discord](https://discord.gg/uybmhR).
 You will be then able to host your projects here and/or participate to existing
 projects.
+
+To contribute to this organization, you have to be compliant with the [code of conduct](./CODE_OF_CONDUCT_EN.md) of this commmunity.
 
 ### Usefull Link
 
