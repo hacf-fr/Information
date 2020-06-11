@@ -26,7 +26,7 @@ directement ou sur le [Discord de la communauté](https://discord.gg/uybmhR).
 Vous pourrez alors héberger vos projets ici et/ou participer aux développements
 des projets existants.
 
-Pour contribuer à cette orgnaisation vous devez respecter le [code de conduite](./CODE_OD_CONDUCT.md) de cette communauté.
+Pour contribuer à cette organisation vous devez respecter le [code de conduite](CODE_OF_CONDUCT.md) de cette communauté.
 
 ### Liens utiles
 
