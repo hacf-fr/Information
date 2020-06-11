@@ -33,7 +33,7 @@ des projets existants.
 - [Forum HACF](https://forum.hacf.fr/)
 - [L'awesome list francophone pour Home Assistant](https://github.com/hacf-fr/awesome-francophone-home-assistant)
 
-### Welcome in the HACF-fr GitHub oarganization
+## Welcome in the HACF-fr GitHub oarganization
 
 This organization is hosting the open sources projects from the Home-Assistant
 french speaking community. You will find repositories linked to Home-Assistant
