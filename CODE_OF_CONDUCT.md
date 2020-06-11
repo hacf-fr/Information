@@ -1,5 +1,7 @@
 # Charte Code de Conduite Contributeurs
 
+_For English speaking visitors. The code of conduct is available in your language: `CODE_OF_CONDUCT_EN.md`._
+
 ## Notre engagement
 
 Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous
