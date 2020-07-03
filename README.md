@@ -29,7 +29,7 @@ des projets existants.
 Pour contribuer à cette organisation vous devez respecter le [code de conduite](CODE_OF_CONDUCT.md)
 de cette communauté.
 
-Vous trouverez des bonnes pratiques pur votre contributions
+Vous trouverez des bonnes pratiques pour vos contributions
 dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Liens utiles
@@ -61,6 +61,8 @@ You will be then able to host your projects here and/or participate to existing
 projects.
 
 To contribute to this organization, you have to be compliant with the [code of conduct](CODE_OF_CONDUCT_EN.md) of this community.
+
+You will find guidelines for your contirbution in [CONTRIBUTING_EN.md](CONTRIBUTING_EN.md) file.
 
 ### Usefull Link
 
