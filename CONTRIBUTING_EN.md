@@ -14,6 +14,8 @@ As soon as the updates are mature enough and validated you will be able to creat
 a PR on the offical repository. You have an example with `meteo_france` et `linky`.
 The latest updates have been done here and discussed on the community Discord.
 
+To ease the coordination, please follow the following branch naming rule: `integration_name/new_feature`
+
 We are hosting [a GitHub project](https://github.com/hacf-fr/home-assistant-core/projects/1)
 to collect ideas or bugs for the integration we are working on. If you want to
 contribute to an already identified action, go on, create your branch, code and ask
@@ -27,6 +29,12 @@ components linked to Home Assitant, you can do it within the organization.
 You will benefit from visibility and support from other french speaking developers
 to help maintain the components.
 
+Please follow the repository naming rules:
+
+- `integration_name-api`: for Python libraries
+- `integration_name-custom`: for custom components
+- `card_name-card`: for custom Lovelace cards
+
 ## The awesome list
 
 The [Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
@@ -34,4 +42,4 @@ hosted within the organization regroups interresting, awesome and french speakin
 resources linked to Home Assistant. The list needs to be regularly updated and improved by all of us.
 
 Please contribute. Detailed instructions are
-availabel in the repository.
+available in the repository.

@@ -62,7 +62,7 @@ projects.
 
 To contribute to this organization, you have to be compliant with the [code of conduct](CODE_OF_CONDUCT_EN.md) of this community.
 
-You will find guidelines for your contirbution in [CONTRIBUTING_EN.md](CONTRIBUTING_EN.md) file.
+You will find guidelines to contribute in [CONTRIBUTING_EN.md](CONTRIBUTING_EN.md) file.
 
 ### Usefull Link
 
