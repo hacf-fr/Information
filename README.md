@@ -34,6 +34,10 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Liens utiles
 
+[![Discord francophone][discord-shield-fr]][discord-fr]
+[![Forum francophone][forum-shield-fr]][forum-fr]
+[![Awesome francophone][awesome-shield]][awesome-fr]
+
 - [Blog HACF](#hacf-home-assistant-communauté-francophone)
 - [Discord HACF](https://discord.gg/uybmhR)
 - [Forum HACF](https://forum.hacf.fr/)
@@ -70,3 +74,11 @@ You will find guidelines to contribute in [CONTRIBUTING_EN.md](CONTRIBUTING_EN.m
 - [HACF Discord](https://discord.gg/uybmhR)
 - [HACF Forum](https://forum.hacf.fr/)
 - [The Home-Assistant francophone awesome list](https://github.com/hacf-fr/awesome-francophone-home-assistant)
+
+
+[awesome-shield]: https://awesome.re/badge.svg
+[awesome-fr]: https://github.com/hacf-fr/awesome-francophone-home-assistant
+[forum-shield-fr]: https://img.shields.io/discourse/topics?label=Forum%20francophone%20HACF&logo=discourse&server=https%3A%2F%2Fforum.hacf.fr%2F
+[forum-fr]: https://forum.hacf.fr/
+[discord-shield-fr]: https://img.shields.io/discord/706096417000652840?label=Discord%20francophone%20HACF&logo=discord
+[discord-fr]: https://discord.com/invite/PaZFEjX
