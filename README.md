@@ -1,5 +1,9 @@
 # Information
 
+[![Discord francophone][discord-shield-fr]][discord-fr]
+[![Forum francophone][forum-shield-fr]][forum-fr]
+[![Awesome francophone][awesome-shield]][awesome-fr]
+
 For [the English speaking visitors](#welcome-in-the-hacf-fr-github-oarganization).
 
 Pour [les visiteurs francophones](#bienvenue-sur-lorganisation-github-de-hacf-fr).
@@ -34,9 +38,6 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Liens utiles
 
-[![Discord francophone][discord-shield-fr]][discord-fr]
-[![Forum francophone][forum-shield-fr]][forum-fr]
-[![Awesome francophone][awesome-shield]][awesome-fr]
 
 - [Blog HACF](#hacf-home-assistant-communauté-francophone)
 - [Discord HACF](https://discord.gg/uybmhR)
