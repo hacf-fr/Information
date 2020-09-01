@@ -37,6 +37,14 @@ Nous vous demandons de suivre la règle de nommage suivant pour vos dêpots:
 - `nom_de_l_integration-custom`: pour les custom_components
 - `nom_de_la_carte-card`: pour les cartes Lovelace
 
+## Modules Python sur PyPI.org
+
+Les librairies Pythons doivent être hébergées sur pypi.org pour être utilisables avec Home Assistant core. 
+
+Nous recommendons d'ajouter le compte `hacf-fr` en co-owner ou en maintainer pour avoir un backup si le code owner est indisponible pendant une longue durée.
+
+Pour faciliter la maintenance de ces modules Python, nous recommandons d'utiliser les GitHub Action pour automatiser l'upload d'une nouvelle version du module sur PyPI.org.
+
 ## L'Awesome list
 
 L'[Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
