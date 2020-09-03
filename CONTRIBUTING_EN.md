@@ -35,6 +35,14 @@ Please follow the repository naming rules:
 - `integration_name-custom`: for custom components
 - `card_name-card`: for custom Lovelace cards
 
+## Python Modules on PyPI.org
+
+Python libraries have to be hosted on [PyPI.org](https://pypi.org) to be used by Home Assistant core.
+
+We recommend adding the [`hacf-fr`](https://pypi.org/user/hacf-fr/) account as co-owner or maintainer to have a backup if the code owner is not available for a long period.
+
+To ease the maintenance of Python modules, we recommend using GitHub Action to upload automatically new releases on [PyPI.org](https://pypi.org).
+
 ## The awesome list
 
 The [Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
