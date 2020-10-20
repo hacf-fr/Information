@@ -41,7 +41,7 @@ Python libraries have to be hosted on [PyPI.org](https://pypi.org) to be used by
 
 We recommend adding the [`hacf-fr`](https://pypi.org/user/hacf-fr/) account as co-owner or maintainer to have a backup if the code owner is not available for a long period.
 
-To ease the maintenance of Python modules, we recommend using GitHub Action to upload automatically new releases on [PyPI.org](https://pypi.org).
+To ease the maintenance of Python modules, we recommend using GitHub Action to check the code and upload automatically new releases on [PyPI.org](https://pypi.org). We recommand as best practice to use the [`cookiecutter-hypermodern-python`](https://github.com/cjolowicz/cookiecutter-hypermodern-python) template which implement popular and modern Python development standards.
 
 ## The awesome list
 
