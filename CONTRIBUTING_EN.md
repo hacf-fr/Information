@@ -35,7 +35,7 @@ Please follow the repository naming rules:
 - `integration_name-custom`: for custom components
 - `card_name-card`: for custom Lovelace cards
 
-## Python Modules on PyPI.org
+## Python Librairies on PyPI.org
 
 Python libraries have to be hosted on [PyPI.org](https://pypi.org) to be used by Home Assistant core.
 
