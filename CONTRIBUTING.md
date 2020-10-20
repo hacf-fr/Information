@@ -43,7 +43,7 @@ Les librairies Python doivent être hébergées sur [PyPI.org](https://pypi.org)
 
 Nous recommandons d'ajouter le compte [`hacf-fr`](https://pypi.org/user/hacf-fr/) en co-owner ou en maintainer pour avoir un backup si le code owner est indisponible pendant une longue durée.
 
-Pour faciliter la maintenance de ces modules Python, nous recommandons d'utiliser les GitHub Action pour automatiser les vérifications de code et l'upload d'une nouvelle version de la librairie sur [PyPI.org](https://pypi.org). Une bonne pratique consiste utiliser le template [`cookiecutter-hypermodern-python`](https://github.com/cjolowicz/cookiecutter-hypermodern-python) qui implémente déjà les standards populaires et modernes du développement Python.
+Pour faciliter la maintenance de ces modules Python, nous recommandons d'utiliser les GitHub Action pour automatiser les vérifications de code et l'upload d'une nouvelle version sur [PyPI.org](https://pypi.org). Une bonne pratique consiste à utiliser le template [`cookiecutter-hypermodern-python`](https://github.com/cjolowicz/cookiecutter-hypermodern-python) qui implémente déjà les standards populaires et modernes du développement Python.
 
 ## L'Awesome list
 
