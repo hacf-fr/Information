@@ -42,7 +42,7 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Blog HACF](#hacf-home-assistant-communauté-francophone)
 - [Discord HACF](https://discord.gg/uybmhR)
 - [Forum HACF](https://forum.hacf.fr/)
-- [L'awesome list francophone pour Home Assistant](https://github.com/hacf-fr/awesome-francophone-home-assistant)
+- [L'awesome list francophone pour Home Assistant](https://awesome.hacf.fr)
 
 ## Welcome in the HACF-fr GitHub oarganization
 
@@ -74,7 +74,7 @@ You will find guidelines to contribute in [CONTRIBUTING_EN.md](CONTRIBUTING_EN.m
 - [HACF Blog](#hacf-home-assistant-communauté-francophone)
 - [HACF Discord](https://discord.gg/uybmhR)
 - [HACF Forum](https://forum.hacf.fr/)
-- [The Home-Assistant francophone awesome list](https://github.com/hacf-fr/awesome-francophone-home-assistant)
+- [The Home-Assistant francophone awesome list](https://awesome.hacf.fr)
 
 
 [awesome-shield]: https://awesome.re/badge.svg
