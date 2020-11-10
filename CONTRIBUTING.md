@@ -47,7 +47,7 @@ Pour faciliter la maintenance de ces modules Python, nous recommandons d'utilise
 
 ## L'Awesome list
 
-L'[Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
+L'[Awesome List francophone](https://awesome.hacf.fr)
 hébergée dans l'organisation est là pour regrouper toutes les ressources interressantes liées à Home Assitant
 pour les francophones. Elle doit être vivante et peut être améliorée par tous.
 N'hésitez pas à contirbuer. Des instructions détaillées sont disponible dans le

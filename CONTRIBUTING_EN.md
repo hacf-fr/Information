@@ -45,7 +45,7 @@ To ease the maintenance of Python modules, we recommend using GitHub Action to c
 
 ## The awesome list
 
-The [Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
+The [Awesome List francophone](https://awesome.hacf.fr)
 hosted within the organization regroups interresting, awesome and french speaking
 resources linked to Home Assistant. The list needs to be regularly updated and improved by all of us.
 
