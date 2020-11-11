@@ -52,3 +52,28 @@ hébergée dans l'organisation est là pour regrouper toutes les ressources inte
 pour les francophones. Elle doit être vivante et peut être améliorée par tous.
 N'hésitez pas à contirbuer. Des instructions détaillées sont disponible dans le
 dépôt.
+
+## Promotion de la communauté
+
+N'oublions pas de faire la promotion de la communauté dans les dépôts que nous maintenons.
+Nous recommandons d'utiliser quand cela est pertinent les badges suivants:
+
+* [![Discord francophone][discord-shield-fr]][discord-fr]: pour la promotion du Discord
+* [![Forum francophone][forum-shield-fr]][forum-fr]: pour la promotion du Forum
+* [![Awesome francophone][awesome-shield]][awesome-fr]: pour la promotion de l'awesome list. Surtout s'il y a une entrée dans la liste en lien avec un dépôt HACF
+
+## Language utilisée
+
+Sur GitHub la langue préconnisée est l'anglais. Nous recommandons de suivre cette bonne pratique autant que possible.
+
+En revanche nous devons être accueillant et bienveillant quand des francophones viennent contribuer en français sur les dépôts de la communautés.
+
+Nous pouvons aussi priviliégier le français sur certains dépôts, qui sont reconnus pour n'adresser qu'une population cible francophone (example [freebox-api](https://github.com/hacf-fr/freebox-api)).
+Dans ce cas il faut l'afficher de manière explicite.
+
+[awesome-shield]: https://awesome.re/badge.svg
+[awesome-fr]: https://awesome.hacf.fr
+[forum-shield-fr]: https://img.shields.io/discourse/topics?label=Forum%20francophone%20HACF&logo=discourse&server=https%3A%2F%2Fforum.hacf.fr%2F
+[forum-fr]: https://forum.hacf.fr/
+[discord-shield-fr]: https://img.shields.io/discord/706096417000652840?label=Discord%20francophone%20HACF&logo=discord
+[discord-fr]: https://discord.com/invite/PaZFEjX
