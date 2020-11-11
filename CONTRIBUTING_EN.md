@@ -54,12 +54,12 @@ available in the repository.
 
 ## Community promotion
 
-We should not forget to promote the community in the repository we maintain.
+We should not forget to promote the community in repositories we maintain.
 We recommend to use the following badges when applicable.
 
 - [![Discord francophone][discord-shield-fr]][discord-fr]: to promote the Discord
 - [![Forum francophone][forum-shield-fr]][forum-fr]: to promote the Forum
-- [![Awesome francophone][awesome-shield]][awesome-fr]: to promote the awesome list. Mostly if there is an entry in the list related to the repository.
+- [![Awesome francophone][awesome-shield]][awesome-fr]: to promote the awesome list. Mostly if there is an entry in the list related to an HACF repository.
 
 ## Language used
 
@@ -68,7 +68,7 @@ We recommand to follow this best practice as much as possible.
 
 On the other hand, we have to welcome and be friendly with the French speaking contributors.
 
-It is allowed to prefer French language on repository related to services or products targeting only francophones
+It is allowed to prefer French language on repositories related to services or products targeting only francophones
 (example [freebox-api](https://github.com/hacf-fr/freebox-api)).
 In this case, we have to make this choice visible.
 

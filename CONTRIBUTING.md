@@ -56,11 +56,11 @@ dépôt.
 ## Promotion de la communauté
 
 N'oublions pas de faire la promotion de la communauté dans les dépôts que nous maintenons.
-Nous recommandons d'utilser quand cela est pertinent les badges suivants:
+Nous recommandons d'utiliser quand cela est pertinent les badges suivants:
 
 * [![Discord francophone][discord-shield-fr]][discord-fr]: pour la promotion du Discord
 * [![Forum francophone][forum-shield-fr]][forum-fr]: pour la promotion du Forum
-* [![Awesome francophone][awesome-shield]][awesome-fr]: pour la promotion de l'awesome list. Surtout si il y a une entrée dans la liste en lien avec le dépôt
+* [![Awesome francophone][awesome-shield]][awesome-fr]: pour la promotion de l'awesome list. Surtout s'il y a une entrée dans la liste en lien avec un dépôt HACF
 
 ## Language utilisée
 
