@@ -44,7 +44,7 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Forum HACF](https://forum.hacf.fr/)
 - [L'awesome list francophone pour Home Assistant](https://awesome.hacf.fr)
 
-## Welcome in the HACF-fr GitHub oarganization
+## Welcome in the HACF-fr GitHub organization
 
 This organization is hosting the open sources projects from the Home-Assistant
 french speaking community. You will find repositories linked to Home-Assistant
