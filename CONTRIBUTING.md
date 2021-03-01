@@ -11,8 +11,8 @@ Pour toutes activités sur les composants officiels de Home Assistant, nous reco
 des branches dédiées. Cela permettra de partager l'effort, d'avoir des revues
 et des conseils d'autres développeurs francophones.
 
-Une fois les modifcations matures et validées vous pourrez alors créer une PR
-sur le dépôt officiel de Home Assistant. Vous avez un exemple avec `meteo_france` et `linky` dont les dernères modifications
+Une fois les modifications matures et validées vous pourrez alors créer une PR
+sur le dépôt officiel de Home Assistant. Vous avez un exemple avec `meteo_france` et `linky` dont les dernières modifications
 ont été construites ici et discutées sur le Discord de la communauté.
 
 Pour faciliter la coordination, veuillez respecter la convention suivante pour
