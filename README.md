@@ -39,8 +39,8 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 ### Liens utiles
 
 
-- [Blog HACF](#hacf-home-assistant-communauté-francophone)
-- [Discord HACF](https://discord.gg/uybmhR)
+- [Blog HACF](https://hacf.fr)
+- [Discord HACF](https://discord.com/invite/PaZFEjX)
 - [Forum HACF](https://forum.hacf.fr/)
 - [L'awesome list francophone pour Home Assistant](https://awesome.hacf.fr)
 
