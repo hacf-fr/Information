@@ -38,11 +38,11 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Liens utiles
 
-
 - [Blog HACF](https://hacf.fr)
 - [Discord HACF](https://discord.com/invite/PaZFEjX)
 - [Forum HACF](https://forum.hacf.fr/)
 - [L'awesome list francophone pour Home Assistant](https://awesome.hacf.fr)
+- [Le Guide du développeur](https://developpeurs.hacf.fr/)
 
 ## Welcome in the HACF-fr GitHub organization
 
@@ -75,6 +75,7 @@ You will find guidelines to contribute in [CONTRIBUTING_EN.md](CONTRIBUTING_EN.m
 - [HACF Discord](https://discord.gg/uybmhR)
 - [HACF Forum](https://forum.hacf.fr/)
 - [The Home-Assistant francophone awesome list](https://awesome.hacf.fr)
+- [Developer guide in French](https://developpeurs.hacf.fr/)
 
 
 [awesome-shield]: https://awesome.re/badge.svg
