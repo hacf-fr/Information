@@ -1,7 +1,6 @@
 # Information
 
 [![Discord francophone][discord-shield-fr]][discord-fr]
-[![Forum francophone][forum-shield-fr]][forum-fr]
 [![Awesome francophone][awesome-shield]][awesome-fr]
 
 ## Bienvenue sur l'organisation GitHub de HACF-fr
@@ -41,7 +40,6 @@ dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
 
 [awesome-shield]: https://awesome.re/badge.svg
 [awesome-fr]: https://awesome.hacf.fr
-[forum-shield-fr]: https://img.shields.io/discourse/topics?label=Forum%20francophone%20HACF&logo=discourse&server=https%3A%2F%2Fforum.hacf.fr%2F
 [forum-fr]: https://forum.hacf.fr/
 [discord-shield-fr]: https://img.shields.io/discord/706096417000652840?label=Discord%20francophone%20HACF&logo=discord
 [discord-fr]: https://discord.com/invite/PaZFEjX
