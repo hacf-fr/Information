@@ -66,7 +66,7 @@ Nous pouvons aussi priviliégier le français sur certains dépôts, qui sont re
 Dans ce cas, il faut l'afficher de manière explicite.
 
 [awesome-shield]: https://awesome.re/badge.svg
-[awesome-fr]: https://awesome.hacf.fr
+[awesome-fr]: https://github.com/hacf-fr/awesome-francophone-home-assistant
 [forum-fr]: https://forum.hacf.fr/
 [discord-shield-fr]: https://img.shields.io/discord/706096417000652840?label=Discord%20francophone%20HACF&logo=discord
 [discord-fr]: https://discord.com/invite/PaZFEjX
