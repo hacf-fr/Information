@@ -54,7 +54,6 @@ N'oublions pas de faire la promotion de la communauté dans les dépôts que nou
 Nous recommandons d'utiliser quand cela est pertinent les badges suivants:
 
 * [![Discord francophone][discord-shield-fr]][discord-fr]: pour la promotion du Discord
-* [![Forum francophone][forum-shield-fr]][forum-fr]: pour la promotion du Forum
 * [![Awesome francophone][awesome-shield]][awesome-fr]: pour la promotion de l'awesome list. Surtout s'il y a une entrée dans la liste en lien avec un dépôt HACF
 
 ## Language utilisée
@@ -68,7 +67,6 @@ Dans ce cas, il faut l'afficher de manière explicite.
 
 [awesome-shield]: https://awesome.re/badge.svg
 [awesome-fr]: https://awesome.hacf.fr
-[forum-shield-fr]: https://img.shields.io/discourse/topics?label=Forum%20francophone%20HACF&logo=discourse&server=https%3A%2F%2Fforum.hacf.fr%2F
 [forum-fr]: https://forum.hacf.fr/
 [discord-shield-fr]: https://img.shields.io/discord/706096417000652840?label=Discord%20francophone%20HACF&logo=discord
 [discord-fr]: https://discord.com/invite/PaZFEjX
