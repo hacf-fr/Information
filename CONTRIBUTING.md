@@ -18,11 +18,6 @@ ont été construites ici et discutées sur le Discord de la communauté.
 Pour faciliter la coordination, veuillez respecter la convention suivante pour
 nommer vos branches: `nom_de_l_integration/nom_nouvelle_fonction`.
 
-Nous hébergeons aussi [un projet GitHub](https://github.com/hacf-fr/home-assistant-core/projects/1)
-qui permet de capturer toutes les idées ou corrections nécessaires sur les
-intégrations qui sont travaillées ici. Si vous voulez contribuer à une action identifiée dans le projet, n'hésitez pas,
-créez votre branche, codez et demandez des conseils à la communauté.
-
 ## Hébergement des sources
 
 Si vous voulez partager le code source de vos librairies, de vos custom components
@@ -47,10 +42,10 @@ Pour faciliter la maintenance de ces modules Python, nous recommandons d'utilise
 
 ## L'Awesome list
 
-L'[Awesome List francophone](https://awesome.hacf.fr)
+L'[Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
 hébergée dans l'organisation est là pour regrouper toutes les ressources interressantes liées à Home Assitant
 pour les francophones. Elle doit être vivante et peut être améliorée par tous.
-N'hésitez pas à contirbuer. Des instructions détaillées sont disponible dans le
+N'hésitez pas à contribuer. Des instructions détaillées sont disponible dans le
 dépôt.
 
 ## Promotion de la communauté
@@ -64,12 +59,12 @@ Nous recommandons d'utiliser quand cela est pertinent les badges suivants:
 
 ## Language utilisée
 
-Sur GitHub la langue préconnisée est l'anglais. Nous recommandons de suivre cette bonne pratique autant que possible.
+Sur GitHub, la langue préconnisée est l'anglais. Nous recommandons de suivre cette bonne pratique autant que possible.
 
-En revanche nous devons être accueillant et bienveillant quand des francophones viennent contribuer en français sur les dépôts de la communautés.
+En revanche, nous devons être accueillant et bienveillant quand des francophones viennent contribuer en français sur les dépôts de la communautés.
 
 Nous pouvons aussi priviliégier le français sur certains dépôts, qui sont reconnus pour n'adresser qu'une population cible francophone (example [freebox-api](https://github.com/hacf-fr/freebox-api)).
-Dans ce cas il faut l'afficher de manière explicite.
+Dans ce cas, il faut l'afficher de manière explicite.
 
 [awesome-shield]: https://awesome.re/badge.svg
 [awesome-fr]: https://awesome.hacf.fr
