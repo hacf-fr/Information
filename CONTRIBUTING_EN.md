@@ -16,11 +16,6 @@ The latest updates have been done here and discussed on the community Discord.
 
 To ease the coordination, please follow the following branch naming rule: `integration_name/new_feature`
 
-We are hosting [a GitHub project](https://github.com/hacf-fr/home-assistant-core/projects/1)
-to collect ideas or bugs for the integration we are working on. If you want to
-contribute to an already identified action, go on, create your branch, code and ask
-for advice to the community.
-
 ## Hosting source code
 
 If you want to share the code of your librairies, custom components or all other
@@ -45,7 +40,7 @@ To ease the maintenance of Python modules, we recommend using GitHub Action to c
 
 ## The awesome list
 
-The [Awesome List francophone](https://awesome.hacf.fr)
+The [Awesome List francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant)
 hosted within the organization regroups interresting, awesome and french speaking
 resources linked to Home Assistant. The list needs to be regularly updated and improved by all of us.
 
